@@ -1,5 +1,5 @@
 // Package totp
-// Author: Elias He
+// Author: Perry He
 // Created on: 2025-11-24 20:25:21
 package totp
 
